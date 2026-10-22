@@ -14,10 +14,10 @@ Estudante de Ciência da Computação (6º semestre) e em transição para a ár
 |---|---|---|
 | [sistema-aprovacao-pedidos-python](https://github.com/thaliamenezes-98/sistema-aprovacao-pedidos-python) | Sistema simples de automação para análise de pedidos | Python |
 | [totvs-desafio-desconto-pedidos](https://github.com/thaliamenezes-98/totvs-desafio-desconto-pedidos) | Desafio de código do bootcamp TOTVS sobre cálculo de descontos em pedidos | Python |
-| [pastel-da-japonesa-etl]([LINK](https://github.com/thaliamenezes-98/pastel-da-japonesa-etl)) | Pipeline de ETL desenvolvido no desafio Santander DEV Week 2023 | Python |
-| [projeto-aws-pastel-da-japonesa]([LINK](https://github.com/thaliamenezes-98/projeto-aws-pastel-da-japonesa)) | Estudo de caso de redução de custos com AWS (projeto de curso, negócio fictício) | AWS |
-| [dashboard-pastel-da-japonesa]([LINK](https://github.com/thaliamenezes-98/dashboard-pastel-da-japonesa)) | Dashboard de análise de dados (projeto de estudo) | [ferramenta] |
-| [controle-de-contas-python]([LINK](https://github.com/thaliamenezes-98/controle-de-contas-python)) | [Organização de contas e melhorias no controle financeiro] | Python |
+| [pastel-da-japonesa-etl](https://github.com/thaliamenezes-98/pastel-da-japonesa-etl) | Pipeline de ETL desenvolvido no desafio Santander DEV Week 2023 | Python |
+| [projeto-aws-pastel-da-japonesa](https://github.com/thaliamenezes-98/projeto-aws-pastel-da-japonesa) | Estudo de caso de redução de custos com AWS (projeto de curso, negócio fictício) | AWS |
+| [dashboard-pastel-da-japonesa](https://github.com/thaliamenezes-98/dashboard-pastel-da-japonesa) | Dashboard de análise de dados (projeto de estudo) | Excel |
+| [controle-de-contas-python](https://github.com/thaliamenezes-98/controle-de-contas-python) | Organização de contas e melhorias no controle financeiro | Python |
 
 ## Formação e certificações
 - Bacharelado em Ciência da Computação, Centro Universitário FAM (conclusão prevista para 2028)

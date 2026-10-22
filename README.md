@@ -25,5 +25,5 @@ Estudante de Ciência da Computação (6º semestre) e em transição para a ár
 - Fundamentos de Business Intelligence, DIO (em andamento)
 
 ## Contato
-- LinkedIn: [(https://www.linkedin.com/in/thalia-menezes/)]
+- LinkedIn: (https://www.linkedin.com/in/thalia-menezes/)
 - E-mail: thalia.menezes.98@gmail.com
